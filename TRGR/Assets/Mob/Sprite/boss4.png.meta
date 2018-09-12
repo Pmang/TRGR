@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: f5522b220983ccc4099e5fbfaac2ef55
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: boss4_0
+    21300002: boss4_1
+    21300004: boss4_2
+    21300006: boss4_3
+    21300008: boss4_4
+    21300010: boss4_5
+    21300012: boss4_6
+    21300014: boss4_7
+    21300016: boss4_8
+    21300018: boss4_9
+    21300020: boss4_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: boss4_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 985
+        width: 326
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss4_1
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 860
+        width: 392
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss4_2
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 814
+        width: 392
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss4_3
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 713
+        width: 402
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss4_4
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 670
+        width: 391
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss4_5
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 649
+        width: 450
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss4_6
+      rect:
+        serializedVersion: 2
+        x: 3027
+        y: 633
+        width: 448
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss4_7
+      rect:
+        serializedVersion: 2
+        x: 3545
+        y: 625
+        width: 439
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss4_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 7
+        width: 440
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss4_9
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 0
+        width: 413
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss4_10
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 34
+        width: 474
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: d59720c12a3135641927fd7b29e70bf0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lance_0
+    21300002: lance_1
+    21300004: lance_2
+    21300006: lance_3
+    21300008: lance_4
+    21300010: lance_5
+    21300012: lance_6
+    21300014: lance_7
+    21300016: lance_8
+    21300018: lance_9
+    21300020: lance_10
+    21300022: lance_11
+    21300024: lance_12
+    21300026: lance_13
+    21300028: lance_14
+    21300030: lance_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: lance_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 250
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lance_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 148
+        width: 250
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lance_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 148
+        width: 250
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lance_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 148
+        width: 250
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lance_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 148
+        width: 250
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lance_5
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 148
+        width: 250
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lance_6
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 148
+        width: 250
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lance_7
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 148
+        width: 250
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lance_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 250
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lance_9
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 48
+        width: 250
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lance_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 48
+        width: 250
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lance_11
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 48
+        width: 250
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lance_12
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 48
+        width: 250
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lance_13
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 48
+        width: 250
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lance_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 48
+        width: 250
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lance_15
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 48
+        width: 250
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

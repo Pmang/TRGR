@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 6773b7daae4ec6d4fa074b376a063759
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: attack_0
+    21300002: attack_1
+    21300004: attack_2
+    21300006: attack_3
+    21300008: attack_4
+    21300010: attack_6
+    21300012: attack_7
+    21300014: attack_8
+    21300016: attack_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3536
+        width: 467
+        height: 560
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack_1
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 3384
+        width: 800
+        height: 712
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack_2
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 3378
+        width: 948
+        height: 718
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack_3
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 3378
+        width: 1124
+        height: 718
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2631
+        width: 1069
+        height: 745
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack_6
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2639
+        width: 1106
+        height: 735
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack_7
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 2637
+        width: 1220
+        height: 737
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1924
+        width: 1147
+        height: 706
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack_9
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1930
+        width: 817
+        height: 697
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
